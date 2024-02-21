@@ -1,5 +1,4 @@
 # Search-Engine
-*code unavailable*
 - takes documents in and tokenizes them
 - allows user to search for a word or many words
 - will return a list of documents that contain that query in order by how many times they contain the query
